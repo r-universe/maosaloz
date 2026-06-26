@@ -1,0 +1,10 @@
+{
+  "id": 142797416,
+  "created_at": "2026-06-26T16:21:00.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["ececplots"]
+}
